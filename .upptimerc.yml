@@ -24,3 +24,15 @@ sites:
 #    url: https://ops-tls.watchfox.io/healthz
 #  - name: Ops Sitemap
 #    url: https://ops-sitemap.watchfox.io/healthz
+
+status-website:
+  cname: status.watchfox.io
+  name: Watchfox Status
+  introTitle: "Watchfox service status"
+  introMessage: "Live uptime and incident history."
+  navbar:
+    - title: Status
+      href: /
+    - title: App
+      href: https://app.watchfox.io/
+
