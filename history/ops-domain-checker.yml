@@ -1,7 +1,7 @@
 url: https://ops-domain.watchfox.io/healthz
 status: up
 code: 200
-responseTime: 114
-lastUpdated: 2026-02-26T23:07:59.187Z
+responseTime: 119
+lastUpdated: 2026-02-27T23:04:43.405Z
 startTime: 2026-02-19T17:17:58.546Z
 generator: Upptime <https://github.com/upptime/upptime>
