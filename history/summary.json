@@ -4,7 +4,7 @@
     "url": "https://app.watchfox.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.watchfox.io.ico",
     "slug": "watchfox-app-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 413,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-20": 0
+    }
   },
   {
     "name": "Ops Uptime EU-Central",
@@ -34,7 +36,7 @@
     "timeMonth": 189,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-04-20": 34,
+      "2026-04-20": 823,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -114,7 +116,7 @@
     "timeMonth": 184,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-04-20": 34,
+      "2026-04-20": 823,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -194,7 +196,7 @@
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-04-20": 34,
+      "2026-04-20": 823,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
