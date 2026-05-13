@@ -1,7 +1,7 @@
 url: https://ops-heartbeat.watchfox.io/healthz
 status: up
 code: 200
-responseTime: 363
-lastUpdated: 2026-05-12T23:23:02.138Z
+responseTime: 145
+lastUpdated: 2026-05-13T23:24:30.156Z
 startTime: 2026-02-19T17:17:59.111Z
 generator: Upptime <https://github.com/upptime/upptime>
