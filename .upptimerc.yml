@@ -2,21 +2,21 @@ owner: rvosmik
 repo: watchfox-status
 
 sites:
-  - name: Watchfox App (UI)
+  - name: Watchfox App
     url: https://app.watchfox.io/
 
   # Uptime regions (core)
-  - name: Ops Uptime EU-Central
+  - name: Website monitoring
     url: https://ops-eu-central.watchfox.io/healthz
-  - name: Ops Uptime EU-West
+  - name: Website monitoring verification A
     url: https://ops-eu-west.watchfox.io/healthz
-  - name: Ops Uptime US-East
+  - name: Website monitoring verification B
     url: https://ops-us-east.watchfox.io/healthz
 
   # Bonus / infra helpers (ty co jste teď přidali)
-  - name: Ops Domain Checker
+  - name: Domain monitoring
     url: https://ops-domain.watchfox.io/healthz
-  - name: Ops Heartbeat Checker
+  - name: Heartbeat monitoring
     url: https://ops-heartbeat.watchfox.io/healthz
 
 # (volitelně později, až bude /healthz i tam)
