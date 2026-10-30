@@ -1,7 +1,7 @@
 url: https://ops-us-east.watchfox.io/healthz
 status: up
 code: 200
-responseTime: 182
-lastUpdated: 2026-10-29T23:03:40.193Z
+responseTime: 146
+lastUpdated: 2026-10-30T23:03:07.186Z
 startTime: 2026-07-04T17:21:35.801Z
 generator: Upptime <https://github.com/upptime/upptime>
